@@ -78,7 +78,7 @@ a:hover {
   margin-top: 32px;
 }
 .navbar-header .navbar-brand {
-  padding: 5px 0;
+  padding: 0 0;
 }
 .navbar-header .navbar-brand a {
   height: auto;
